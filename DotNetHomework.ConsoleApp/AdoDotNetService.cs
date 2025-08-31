@@ -14,7 +14,7 @@ namespace PWTAdoDotNetHomework.ConsoleApp
         SqlConnectionStringBuilder sb = new SqlConnectionStringBuilder()
         {
             DataSource = ".",
-            InitialCatalog = "DotNetTrainingInPerson",
+            InitialCatalog = "AMT_INPERSON_BATCH1",
             UserID = "sa",
             Password = "sasa@123",
             TrustServerCertificate = true,
